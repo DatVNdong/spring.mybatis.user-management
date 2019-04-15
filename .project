@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>spring.mybatis.user-management</name>
+	<name>springboot.mybatis.crud-user</name>
 	<comment></comment>
 	<projects>
 	</projects>
